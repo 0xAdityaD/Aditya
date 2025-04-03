@@ -1,5 +1,3 @@
-![Cybersecurity Banner](https://raw.githubusercontent.com/yourusername/yourrepository/main/banner.jpg)
-
 # 👋 Hi, I'm Aditya! 
 
 ### 🔒 Cybersecurity Student | Ethical Hacking Enthusiast | Tech Explorer
